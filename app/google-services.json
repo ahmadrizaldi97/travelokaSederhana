@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "699760997775",
+    "firebase_url": "https://appku-bdbe8.firebaseio.com",
+    "project_id": "appku-bdbe8",
+    "storage_bucket": "appku-bdbe8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699760997775:android:034a391441971f45",
+        "android_client_info": {
+          "package_name": "joss.polinema.ahmadrizaldi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699760997775-euahcv4fje0e5r3pastr9amq2afccd8a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "joss.polinema.ahmadrizaldi",
+            "certificate_hash": "015fbe21e06c90bf6d529d0d64051f3131ead0ef"
+          }
+        },
+        {
+          "client_id": "699760997775-o6b5a7lhathmcqavrrn5rsrr62ipoa01.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF4lx3V8LHcHr6tEEO4rCBVkN7ipgGYv4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699760997775-o6b5a7lhathmcqavrrn5rsrr62ipoa01.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
